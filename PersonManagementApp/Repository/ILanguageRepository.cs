@@ -9,3 +9,5 @@ namespace PersonManagementApp.Repository
         List<Languages> GetLanguages();
     }
 }
+
+
